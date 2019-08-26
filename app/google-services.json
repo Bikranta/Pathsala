@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1062648172116",
+    "firebase_url": "https://fir-f4eac.firebaseio.com",
+    "project_id": "fir-f4eac",
+    "storage_bucket": "fir-f4eac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062648172116:android:92a533d87ce9dcff",
+        "android_client_info": {
+          "package_name": "com.example.pathsala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062648172116-omrld64c1ucadja2dmn3joid8l10nf7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUAaUD3eweXRaoRYRQEQnfRnImN9NphjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062648172116-omrld64c1ucadja2dmn3joid8l10nf7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
